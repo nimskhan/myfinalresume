@@ -1,4 +1,4 @@
 
 [submodule "path_to_submodule"]
   path = themes/almeida-cv
-  url = git://nimskhan/myfinalresume/themes/almeida-cv
+  url = git://github.com/ineesalmeida/almeida-cv
